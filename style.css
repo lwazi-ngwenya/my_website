@@ -1,0 +1,66 @@
+h1 {
+  color:rgb(2, 64, 66) ;
+  font-size: 40px;
+  margin: 50px;
+  text-align: center;
+  background-color: darkcyan;
+}
+
+h2 {
+  color:cadetblue ;
+  font-size: 25px;
+  margin: 20px;
+  text-align:left;
+}
+
+h3 {
+  color:cadetblue ;
+  font-size: 20px;
+  margin: 0px;
+  text-align: center;
+}
+
+h4 {
+  color:cadetblue ;
+  font-size: 15px;
+  margin: 0px;
+  text-align: center;
+}
+
+body {
+    list-style: height 2px;
+    background-color:white;
+    font-family: 'Merriweather', serif ;
+    color: #2e2e2e;     
+    letter-spacing: .01rem;     
+    line-height: 1.75rem;
+    text-indent:0;
+
+
+}
+
+.img-lwazi {
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+}
+
+table,th,td {
+    border: 1px solid black;
+}
+
+th,td {
+    padding: 15px;
+}
+
+th {
+    text-align: left;
+    color: cadetblue;
+}
+
+p {
+        margin: 15px 0px 
+    }
+ul li a {
+    text-decoration: none;
+}
